@@ -4,7 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Data Structure Problem");
+            UnOrderedList unOrderedList = new UnOrderedList();
+            unOrderedList.Unorder();
         }
     }
 }
